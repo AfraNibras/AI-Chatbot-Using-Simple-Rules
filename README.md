@@ -1,4 +1,8 @@
-# 🤖 AI Chatbot Using Simple Rules
+<p align="center">
+  <img src="assets/chatbot-banner.png" alt="AI Chatbot Banner" width="100%">
+</p>
+
+# 🤖 AI Chatbot Using Simple Rules# 
 
 A professional rule-based AI Chatbot built using Python. The chatbot responds to user queries using predefined responses and `if-else` statements. This project was developed as part of an Artificial Intelligence Internship.
 
