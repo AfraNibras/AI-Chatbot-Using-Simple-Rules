@@ -49,7 +49,7 @@ AI-Chatbot-Using-Simple-Rules/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/AI-Chatbot-Using-Simple-Rules.git
+git clone https://github.com/AfraNibras/AI-Chatbot-Using-Simple-Rules.git
 ```
 
 2. Navigate to the project folder
